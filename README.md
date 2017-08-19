@@ -50,4 +50,4 @@
     - proc_clear_cache --- cleare cache procedure
     
 # Notice
-  This tool is very slow. In my mac laptop, it takes 10 min to import 10MB file. So, please don't use for large file, 
+  This tool is very slow. In my mac laptop, it takes 10 min to import 10MB file. So, in the case of large file, please use divided it. 
